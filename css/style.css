@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+hr{
+    width: 10%;
+    border-style: dotted none none;
+}
+h1{
+    color: chocolate;
+    font-style: italic ;
+}
+h3{
+    color: rgb(221, 131, 131);
+    
+}
+img{
+    background-color: darkgreen;
+    border-radius: 50%;
+}
+p{
+    background-image: -moz-repeating-linear-gradient();
+}
